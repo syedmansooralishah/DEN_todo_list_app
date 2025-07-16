@@ -22,7 +22,7 @@ This application was developed as part of a **remote internship** with **Digital
 * **Flutter** – Frontend Framework
 * **Dart** – Programming Language
 * **Provider** – State Management
-* **Sqflite / Hive** – Local Storage (depending on your code)
+* **Sqflite / Hive** – Local Storage 
 
 ---
 
